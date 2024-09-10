@@ -1,6 +1,6 @@
 import React from "react";
 import Connection from "../../assets/images/connections.svg";
-import Facebook from "../../assets/images/socials/Facebook.png";
+import Mail from "../../assets/images/socials/Mail.png";
 import Instagram from "../../assets/images/socials/instagram.png";
 import LinkedIn from "../../assets/images/socials/linkedin.png";
 import "./Contact.scss";
@@ -29,7 +29,7 @@ const Contact = () => {
           </p>
           <ul className="app__contact-container_contacts-links">
           <a href="mailto:kumarverma2002@gmail.com" target="blank">
-              <img src={Facebook} alt="" />
+              <img src={Mail} alt="" />
               Kumarverma2002@gmail.com
             </a>
             <a href="https://www.instagram.com/kumar_v_e_r_m_a/" target="blank">
