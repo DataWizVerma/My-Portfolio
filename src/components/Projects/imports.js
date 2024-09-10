@@ -45,8 +45,8 @@ const ProjectDetails = [
     image: Hulu,
     title: "Coffee Shop Sales",
     text: "The Coffee Shop Sales Report Dashboard built with Power BI offers detailed insights into sales performance, customer purchasing patterns, and product demand. It features interactive visuals and filters.",
-    site: "https://hulu-v2-lyart.vercel.app/",
-    code: "https://github.com/ErysCode7/hulu-v2",
+    site: "https://github.com/DataWizVerma/SQL-Power-BI-Coffee-Sales-Dashboard",
+    code: "https://github.com/DataWizVerma/SQL-Power-BI-Coffee-Sales-Dashboard",
   },
   {
     image: Realtor,
@@ -81,8 +81,8 @@ const ProjectDetails = [
     image: Countries,
     title: "Shopping Landing Page",
     text: "The Shopping Landing Page is a responsive and visually appealing webpage built using HTML, CSS, and JavaScript.",
-    site: "https://countries-api-black-psi.vercel.app/",
-    code: "https://github.com/ErysCode7/countries-api",
+    site: "https://datawizverma.github.io/My-Landing-Page/",
+    code: "https://github.com/DataWizVerma/My-Landing-Page",
   },
   {
     image: Cocktails,
@@ -126,27 +126,27 @@ const ProjectDetails = [
   //   site: "https://eryscode7.github.io/github-generator-app/",
   //   code: "https://github.com/ErysCode7/github-generator-app",
   // },
-  {
-    image: GPT3,
-    title: "GPT3",
-    text: "Modern UI UX Website made in React",
-    site: "https://gpt3-modern-web.vercel.app/",
-    code: "https://github.com/ErysCode7/gpt3",
-  },
-  {
-    image: EasyBank,
-    title: "EasyBank landing page",
-    text: "Frontend Mentor Challenges Landing Page made with HTML, CSS, SASS and JavaScript.",
-    site: "https://eryscode7.github.io/easybank-landing-page/",
-    code: "https://github.com/ErysCode7/easybank-landing-page",
-  },
-  {
-    image: Toyota,
-    title: "Toyota",
-    text: "Toyota UI design",
-    site: "https://eryscode7.github.io/Toyota/",
-    code: "https://github.com/ErysCode7/Toyota",
-  },
+  // {
+  //   image: GPT3,
+  //   title: "GPT3",
+  //   text: "Modern UI UX Website made in React",
+  //   site: "https://gpt3-modern-web.vercel.app/",
+  //   code: "https://github.com/ErysCode7/gpt3",
+  // },
+  // {
+  //   image: EasyBank,
+  //   title: "EasyBank landing page",
+  //   text: "Frontend Mentor Challenges Landing Page made with HTML, CSS, SASS and JavaScript.",
+  //   site: "https://eryscode7.github.io/easybank-landing-page/",
+  //   code: "https://github.com/ErysCode7/easybank-landing-page",
+  // },
+  // {
+  //   image: Toyota,
+  //   title: "Toyota",
+  //   text: "Toyota UI design",
+  //   site: "https://eryscode7.github.io/Toyota/",
+  //   code: "https://github.com/ErysCode7/Toyota",
+  // },
 ];
 
 export default ProjectDetails;
