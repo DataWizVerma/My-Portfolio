@@ -64,18 +64,18 @@ const ProjectDetails = [
   },
   {
     image: CryptoInc,
-    title: "Crypto Incorporated",
-    text: "A Crypto Application track of all cryptocurrency markets, news and updates about crypto and many more. Built with ReactJS, Ant Design, Redux Toolkit Query and Chart.js.",
+    title: "Career Aspirations of Gen-Z",
+    text: "The Career Aspirations of Gen-Z Dashboard, developed during my internship using Power BI, provides insights into the career preferences, goals, and motivators of Gen-Z",
     site: "https://crypto-incorporated-web.vercel.app/",
     code: "https://github.com/ErysCode7/crypto-incorporated",
   },
-  {
-    image: MovieStar,
-    title: "MovieStar",
-    text: "Movie Application in ReactJS. Using OMDB API, Redux Toolkit, Routing, Axios with carousel",
-    site: "https://movie-star-tawny.vercel.app/",
-    code: "https://github.com/ErysCode7/movie-star",
-  },
+  // {
+  //   image: MovieStar,
+  //   title: "MovieStar",
+  //   text: "Movie Application in ReactJS. Using OMDB API, Redux Toolkit, Routing, Axios with carousel",
+  //   site: "https://movie-star-tawny.vercel.app/",
+  //   code: "https://github.com/ErysCode7/movie-star",
+  // },
  
   {
     image: Countries,
