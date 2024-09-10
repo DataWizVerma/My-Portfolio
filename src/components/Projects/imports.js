@@ -79,8 +79,8 @@ const ProjectDetails = [
  
   {
     image: Countries,
-    title: "Rest Countries API",
-    text: "REST Countries API with color theme switcher. Built with ReactJS and TailwindCSS",
+    title: "Shopping Landing Page",
+    text: "The Shopping Landing Page is a responsive and visually appealing webpage built using HTML, CSS, and JavaScript.",
     site: "https://countries-api-black-psi.vercel.app/",
     code: "https://github.com/ErysCode7/countries-api",
   },
